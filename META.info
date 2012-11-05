@@ -1,0 +1,7 @@
+{
+  "name"        : "Pickle",
+  "version"     : "*",
+  "description" : "Cucumber-like Behavior Driven Development for Perl 6.",
+  "depends"     : ["PSpec"],
+  "source-url"  : "git://github.com/supernovus/pickle.git"
+}
